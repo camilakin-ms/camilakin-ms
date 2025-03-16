@@ -1,6 +1,6 @@
 # Hi, I'm Camila!
 
-I like frontend and backend web development, object-oriented programming and anything to do with robotics.
+I love front and backend web development, robotics and electronics. I'm driven by curiosity and my love to learn anything and everything!
 Reach me at camilakin@proton.me or through linkedin www.linkedin.com/in/camilakinmarquez !
 
 <!---
